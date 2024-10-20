@@ -3,15 +3,15 @@ We will release ESChain as soon as possible. 💪
 
 Star this repo to receive the latest notifications. 🙌
 
-we propose CogChain, a cognitive chain-of-thought (CoT) reasoning framework that mimics a human supporter’s cognitive process for emotional support conversation. Specifically, CogChain employs a chained structure to analyze the seeker’s issues, infer internal thoughts, determine behavioral intentions, and select appropriate strategies to achieve support goals.
+we propose CogChain, a **co**gnitive **chain**-of-thought (CoT) reasoning framework that mimics a human supporter’s cognitive process for emotional support conversation. Specifically, CogChain employs a chained structure to analyze the seeker’s issues, infer internal thoughts, determine behavioral intentions, and select appropriate strategies to achieve support goals.
 
 # CogChain Framework
 ![Fig1_00](https://github.com/user-attachments/assets/17be7457-a2e4-45a7-8734-3bc936965653)
 
-# The pipeline of our methodology
+# Pipeline of our methodology
 ![Fig2_00](https://github.com/user-attachments/assets/01116a9d-0b69-4f45-be53-43d3146e8a09)
 
-# Statistics of ESChain
+# Statistics of ESChain dataset
 ![Statistics of ESChain](https://github.com/user-attachments/assets/caea498d-d5ab-49ea-8f62-cb009a9edac8)
 # Human Evaluation
 ![人工评价](https://github.com/user-attachments/assets/11bd62f2-3483-47dc-99a3-02d0cee87ddb)
