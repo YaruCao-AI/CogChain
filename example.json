@@ -1,0 +1,255 @@
+[
+    {
+        "ID": 1,
+        "Dialogue": [
+          {
+            "Turn": 1,
+            "Seeker": "Hello"
+          },
+          {
+            "Turn": 2,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker initiates a conversation. [SEEKER'S THOUGHT] The Seeker is ready to engage in discussion. [SEEKER'S ACTION] The Seeker will express their concerns. \n[MY STRATEGY] I hereby choose the (Question) strategy to encourage the Seeker to share their thoughts.",
+            "Supporter": "Hello, what would you like to talk about?"
+          },
+          {
+            "Turn": 3,
+            "Seeker": "I am having a lot of anxiety about quitting my current job. It is too stressful but pays well"
+          },
+          {
+            "Turn": 4,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker is experiencing anxiety about a stressful yet well-paying job. [SEEKER'S THOUGHT] The Seeker is conflicted between stress and financial stability. [SEEKER'S ACTION] The Seeker is sharing their concerns. \n[MY STRATEGY] I hereby choose the (Question) strategy to explore the source of the Seeker's anxiety.",
+            "Supporter": "What makes your job stressful for you?"
+          },
+          {
+            "Turn": 5,
+            "Seeker": "I have to deal with many people in hard financial situations and it is upsetting "
+          },
+          {
+            "Turn": 6,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker finds working with financially distressed individuals distressing. [SEEKER'S THOUGHT] The Seeker feels upset due to their clients' situations. [SEEKER'S ACTION] The Seeker is expressing their emotional state. \n[MY STRATEGY] I hereby choose the (Question) strategy to gain more insight into the Seeker's feelings.",
+            "Supporter": "Do you help your clients to make it to a better financial situation?"
+          },
+          {
+            "Turn": 7,
+            "Seeker": "I do, but often they are not going to get back to what they want. Many people are going to lose their home when safeguards are lifted "
+          },
+          {
+            "Turn": 8,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker feels emotional strain from clients' struggles. [SEEKER'S THOUGHT] The Seeker is concerned about clients' future uncertainties. [SEEKER'S ACTION] The Seeker is sharing their worries. \n[MY STRATEGY] I hereby choose the (Affirmation and Reassurance) strategy to offer support and positivity.",
+            "Supporter": "But you offer them a better future than what they have currently. It may not be what they wanted, but it helps them in the long run."
+          },
+          {
+            "Turn": 9,
+            "Seeker": "That is true but sometimes I feel like I should put my feelings and health first "
+          },
+          {
+            "Turn": 10,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker acknowledges the dilemma between compassion and self-care. [SEEKER'S THOUGHT] The Seeker values personal well-being. [SEEKER'S ACTION] The Seeker contemplates self-prioritization. \n[MY STRATEGY] I hereby choose the (Affirmation and Reassurance, Question) strategy to validate the Seeker's emotions and explore potential solutions.",
+            "Supporter": "I can understand that. Is there another job that would pay you close to what you currently make?"
+          },
+          {
+            "Turn": 11,
+            "Seeker": "Probably not. I was with the same company for a long time and I consistently get a bonus every year "
+          },
+          {
+            "Turn": 12,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker's tenure and incentives at the current job pose a challenge to seeking alternatives. [SEEKER'S THOUGHT] The Seeker expresses difficulty in finding a comparable job. [SEEKER'S ACTION] The Seeker hints at job loyalty. \n[MY STRATEGY] I hereby choose the (Others) strategy to introduce a new perspective on client interactions.",
+            "Supporter": "Is it possible to reframe how you look at your clients' dire financial situations?"
+          },
+          {
+            "Turn": 13,
+            "Seeker": "I could try. It mostly gets to me at the end of the day "
+          },
+          {
+            "Turn": 14,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker is open to trying new approaches and timing of emotional impact. [SEEKER'S THOUGHT] The Seeker is willing to address emotional burdens. [SEEKER'S ACTION] The Seeker considers managing emotional boundaries. \n[MY STRATEGY] I hereby choose the (Information) strategy to offer insights and perspectives on the role.",
+            "Supporter": "Some people can't do what you do because they don't have the heart to give someone else bad news. The reality is though, someone needs to fill that role and you do help people"
+          },
+          {
+            "Turn": 15,
+            "Seeker": "That is also true. Sometimes I wonder if it really is for me though  "
+          },
+          {
+            "Turn": 16,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker ponders career fit despite recognizing importance. [SEEKER'S THOUGHT] The Seeker contemplates career alignment. [SEEKER'S ACTION] The Seeker considers career decision-making. \n[MY STRATEGY] I hereby first choose the (Self-disclosure) strategy to build empathy and understanding, and then choose the (Providing Suggestions) strategy to guide decision-making.",
+            "Supporter": "I've had to deal with collections before when I was in  bad financial condition. The person on the other line was really helpful though. She was understanding, It may not be for you. I think you should think about the pros and cons of keeping your position. It might make things clearer for you. "
+          },
+          {
+            "Turn": 17,
+            "Seeker": "That is true. Maybe I just need to sit down and really think about it "
+          },
+          {
+            "Turn": 18,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker reflects on the importance of thoughtful decision-making. [SEEKER'S THOUGHT] The Seeker contemplates introspection. [SEEKER'S ACTION] The Seeker considers reflection. \n[MY STRATEGY] I choose the (Restatement or Paraphrasing) strategy to emphasize mental well-being and the impactful service the Seeker provides.",
+            "Supporter": "I wouldn't stay if it really impacts your mental health in a negative way. Still, you may need to zoom out and see the bigger picture: that you provide a needed service and you do it compassionately"
+          },
+          {
+            "Turn": 19,
+            "Seeker": "It really is a big decision. Thank you for the different perspective"
+          },
+          {
+            "Turn": 20,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker acknowledges the weight of decision-making and appreciates varied viewpoints. [SEEKER'S THOUGHT] The Seeker values diverse perspectives. [SEEKER'S ACTION] The Seeker expresses gratitude. \n[MY STRATEGY] I hereby choose the (Affirmation and Reassurance) strategy, followed by the (Others) strategy to offer assurance and parting words.",
+            "Supporter": "No doubt, but you know in your heart what is right for you. "
+          },
+          {
+            "Turn": 21,
+            "Seeker": "That is true. Thanks again. Bye"
+          },
+          {
+            "Turn": 22,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker acknowledges the exchange and bids farewell. [SEEKER'S THOUGHT] The Seeker appreciates the interaction. [SEEKER'S ACTION] The Seeker concludes the conversation. \n[MY STRATEGY] I hereby choose the (Affirmation and Reassurance, Others) strategy to offer closure and well-wishes.",
+            "Supporter": "It's no problem. I hope you can make a decision about this situation and then be at peace with it. Ok, take care"
+          }
+        ]
+      },
+      {
+        "ID": 3,
+        "Dialogue": [
+          {
+            "Turn": 1,
+            "Seeker": "Hello"
+          },
+          {
+            "Turn": 2,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker initiates the conversation. [SEEKER'S THOUGHT] The Seeker may have something on their mind. [SEEKER'S ACTION] The Seeker is open to discussing concerns. \n[MY STRATEGY] I hereby choose the (Question) strategy to prompt the Seeker to share their thoughts and feelings.",
+            "Supporter": "Hi :) Is there anything you'd like to talk about? Something on your mind? "
+          },
+          {
+            "Turn": 3,
+            "Seeker": "I'm concerned about my job. I have been out of work for the past 5 weeks because I tested positive for COVID-19."
+          },
+          {
+            "Turn": 4,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker shares job-related concerns due to being unable to work after contracting COVID-19. [SEEKER'S THOUGHT] The Seeker might be facing financial challenges and uncertainty. [SEEKER'S ACTION] The Seeker is seeking support and advice. \n[MY STRATEGY] I hereby choose the (Information) and (Others) strategies to offer assistance, inquire about sick pay, and express sympathy.",
+            "Supporter": "Oh I am so sorry to hear that! Are you at least getting sick pay? If not, are you getting advice about help you might be able to access?  Oh I am so sorry to hear that! Are you at least getting sick pay? If not, are you getting advice about help you might be able to access?  (sorry for duplication, not sure what happened there!)"
+          },
+          {
+            "Turn": 5,
+            "Seeker": "It just keeps getting better... I applied for the Pandemic Unemployment Assistance and was approved. The next day, I got an email asking me to verify my identity (I am fine with that. It actually makes good sense.)..."
+          },
+          {
+            "Turn": 6,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker continues to share experiences with seeking financial aid. [SEEKER'S THOUGHT] The Seeker appears to find the verification process reasonable. [SEEKER'S ACTION] The Seeker is recounting their process. \n[MY STRATEGY] I hereby choose the (Restatement or Paraphrasing) strategy to acknowledge and clarify the Seeker's situation.",
+            "Supporter": "So you have been getting some assistance? "
+          },
+          {
+            "Turn": 7,
+            "Seeker": "So I did as instructed and got the message on the website thanking me for verification. The following week I got a physical letter saying I was approved and the award amount per week. I have gone online once a week and qualified, as one is supposed to do, and still I have not received a cent."
+          },
+          {
+            "Turn": 8,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker expresses frustration over delays in receiving financial aid. [SEEKER'S THOUGHT] The Seeker feels overlooked despite following procedures. [SEEKER'S ACTION] The Seeker seeks further guidance. \n[MY STRATEGY] I hereby choose the (Providing Suggestions) strategy to offer advice on alternative assistance options.",
+            "Supporter": "I see, so you are really financially struggling at the moment? Is there anywhere else you could apply for assistance? What about a food bank? "
+          },
+          {
+            "Turn": 9,
+            "Seeker": "Calling the customer service line is futile. The computer just plays a recording that the agents are on other calls and then it disconnects the call."
+          },
+          {
+            "Turn": 10,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker faces challenges in reaching out for help. [SEEKER'S THOUGHT] The Seeker experiences the frustration of unresponsive customer service. [SEEKER'S ACTION] The Seeker shares their struggle with communication. \n[MY STRATEGY] I hereby choose the (Self-disclosure) strategy to empathize and connect through a similar experience.",
+            "Supporter": "I hear you there - I spent a long time on hold for an official matter the other day. I guess that everyone is really desperate for help and advice right now. "
+          },
+          {
+            "Turn": 11,
+            "Seeker": "I have been very fortunate. People in my church have been bringing me food. I plan on trying to go to the food bank Monday, if they are open."
+          },
+          {
+            "Turn": 12,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker expresses gratitude for community support and plans to seek additional assistance. [SEEKER'S THOUGHT] The Seeker appreciates the help received and shows proactive behavior. [SEEKER'S ACTION] The Seeker shares their positive plans. \n[MY STRATEGY] I hereby choose the (Self-disclosure) strategy to offer encouragement and understanding.",
+            "Supporter": "I hope that they can help you. My partner and I have used one before and they were very helpful. I felt a bit ashamed but there was no judgement at all. "
+          },
+          {
+            "Turn": 13,
+            "Seeker": "I actually got so tired of redialing the Department of Labor and Training that I sent an email to the Lieutenant Governor of the state asking for his assistance in getting the matter resolved."
+          },
+          {
+            "Turn": 14,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker seeks higher authority assistance due to persistent challenges with official channels. [SEEKER'S THOUGHT] The Seeker takes proactive steps to address ongoing issues. [SEEKER'S ACTION] The Seeker pursues alternative solutions. \n[MY STRATEGY] I hereby choose the (Affirmation and Reassurance) strategy to validate the Seeker's actions and provide support.",
+            "Supporter": "That sounds like a very positive thing to have done. I really hope that they pay some attention to you. This situation is not your fault! "
+          },
+          {
+            "Turn": 15,
+            "Seeker": "I have been to this food bank once before, and they actually made me feel very comfortable and welcomed and gave me an information package on other ways the parent organization may be able to assist me."
+          },
+          {
+            "Turn": 16,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker reflects on a positive experience with the food bank and additional support opportunities. [SEEKER'S THOUGHT] The Seeker values the welcoming atmosphere and available resources. [SEEKER'S ACTION] The Seeker shares their positive encounter. \n[MY STRATEGY] I hereby choose the (Self-disclosure) strategy to relate and share similar positive experiences.",
+            "Supporter": "Yes they are run by lovely people. Ours gave us a pamphlet for cheap and easy to make recipes too. "
+          },
+          {
+            "Turn": 17,
+            "Seeker": "I am very lucky in that the organization is only 3 miles from me. I will be looking into their rent assistance and employment assistance programs as well."
+          },
+          {
+            "Turn": 18,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker plans to explore additional assistance programs offered by the nearby organization. [SEEKER'S THOUGHT] The Seeker shows initiative in seeking comprehensive support. [SEEKER'S ACTION] The Seeker discusses future plans. \n[MY STRATEGY] I hereby choose the (Restatement or Paraphrasing) strategy to affirm the Seeker's proactive approach.",
+            "Supporter": "So, at least it sounds like you have a good handle on this and are doing everything you can to help yourself, am I right? "
+          },
+          {
+            "Turn": 19,
+            "Seeker": "I have an advantage because I have a professional background in cooking, so I can take random ingredients and turn them into wonderful and nutritious meals. I just need to have the ingredients."
+          },
+          {
+            "Turn": 20,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker highlights their culinary skills and resourcefulness in creating meals. [SEEKER'S THOUGHT] The Seeker demonstrates adaptability and creativity in cooking. [SEEKER'S ACTION] The Seeker shares their culinary capabilities. \n[MY STRATEGY] I hereby choose the (Information) strategy to appreciate and encourage the Seeker's culinary talent.",
+            "Supporter": "That sounds very encouraging! It's amazing what you can make even with cheap food. Noodles, for instance, are very versatile :) "
+          },
+          {
+            "Turn": 21,
+            "Seeker": "You are right. I am definitely not going to sit and pout. I am just a bit frustrated with the system."
+          },
+          {
+            "Turn": 22,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker expresses determination and acknowledges frustration with the system. [SEEKER'S THOUGHT] The Seeker maintains a positive attitude despite challenges. [SEEKER'S ACTION] The Seeker remains resilient. \n[MY STRATEGY] I hereby choose the (Others) strategy to acknowledge systemic frustrations and offer understanding.",
+            "Supporter": "It's a very strange situation and I suspect that some of the authorities just feel overwhelmed and have no idea how to cope. "
+          },
+          {
+            "Turn": 23,
+            "Seeker": "I am concerned that my boss may try to not take me back at my job. Because this is an 'at will' state, he can terminate me without cause. Although he can not legally fire me for being ill with COVID, he can take me back and simply release me the same day saying that I have become redundant."
+          },
+          {
+            "Turn": 24,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker expresses fear of potential job loss and discusses legal concerns. [SEEKER'S THOUGHT] The Seeker anticipates employment challenges and unfair treatment. [SEEKER'S ACTION] The Seeker prepares for potential workplace issues. \n[MY STRATEGY] I hereby choose the (Question) strategy to explore the Seeker's concerns and provide support.",
+            "Supporter": "That would be incredibly immoral of him. Do you feel that he is likely to do such a thing? "
+          },
+          {
+            "Turn": 25,
+            "Seeker": "I would not put it past him. Sadly. But I have taken the attitude that if it does occur, there is nothing I can do to change the situation. I would simply pursue a charge against him for wrongful termination, and seek a new job."
+          },
+          {
+            "Turn": 26,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker contemplates potential job loss and outlines a proactive response. [SEEKER'S THOUGHT] The Seeker shows readiness to address unjust treatment and seek alternative employment. [SEEKER'S ACTION] The Seeker plans a course of action. \n[MY STRATEGY] I hereby choose the (Others) strategy to validate the Seeker's proactive approach and provide encouragement.",
+            "Supporter": "That is a very rational way to look at things. I really hope that it does not come to thank though! Thank you for talking and I wish you all the best for the coming months."
+          },
+          {
+            "Turn": 27,
+            "Seeker": "I may not win the suit, but I would definitely file one. In 2000, I had an employer fire me without cause. I sued and won that time. Not only did they have to pay me back wages for the 90 days that the investigation took place, which was no minor sum, "
+          },
+          {
+            "Turn": 28,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker recalls past legal actions against employers and highlights previous success. [SEEKER'S THOUGHT] The Seeker draws on personal history to inform current decision-making. [SEEKER'S ACTION] The Seeker shares previous legal victories. \n[MY STRATEGY] I hereby choose the (Others) strategy to acknowledge the Seeker's past triumphs and provide commendation.",
+            "Supporter": "I am glad that you'd not roll over and accept ill treatment! Well done :) "
+          },
+          {
+            "Turn": 29,
+            "Seeker": "they were found to be guilty, so the judge granted me my wages based on the average of 80 hour weeks I had been working, all my vacation time, plus the overtime I would have received, holiday pay, and then to put a nice bow on that gift, he awarded me 5000 dollars in damages because the old company lied and said I had broken the law."
+          },
+          {
+            "Turn": 30,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker shares the legal outcome of a past employment lawsuit. [SEEKER'S THOUGHT] The Seeker reflects on a successful legal battle and fair compensation. [SEEKER'S ACTION] The Seeker recounts the court's ruling. \n[MY STRATEGY] I hereby choose the (Others) strategy to celebrate the Seeker's victory and offer support.",
+            "Supporter": "I am afraid I need to leave now but thank you for talking :) (can you press the quit button and take the survey?) Best wishes!"
+          },
+          {
+            "Turn": 31,
+            "Seeker": "My current employer actually knows this happened, because years ago we discussed it, and I showed him the award letter from the Department of Labor and Training, itemizing the judge's findings and the awards. Thank you for your time. Have a great holiday."
+          },
+          {
+            "Turn": 32,
+            "Supporter Step by Step Reasoning": "[SEEKER'S SITUATION] The Seeker shares previous legal victory with the current employer. [SEEKER'S THOUGHT] The Seeker communicates past legal matters with the employer. [SEEKER'S ACTION] The Seeker expresses gratitude and wishes well. \n[MY STRATEGY] I hereby choose the (Affirmation and Reassurance) strategy to offer encouragement and support the Seeker's actions.",
+            "Supporter": "You too! "
+          }
+        ]
+      }
+]
