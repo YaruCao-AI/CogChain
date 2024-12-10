@@ -27,16 +27,31 @@ We propose CogChain, a **co**gnitive **chain**-of-thought (CoT) reasoning framew
 # Citation
 If you find our work useful, please cite our paper.
 
-@inproceedings{
-
-cao2024enhancing,
-
-title={Enhancing Emotional Support Conversation with Cognitive Chain-of-Thought Reasoning},
-
-author={Yaru Cao, Zhuang Chen, Guanqun Bi, Yulin Feng, Min Chen, Fucheng Wan, Minlie Huang, and Hongzhi Yu},
-
-booktitle={The 13th CCF International Conference on Natural Language Processing and Chinese Computing},
-
-year={2024}
-
+@inproceedings{DBLP:conf/nlpcc/CaoCBFCWHY24,
+  author       = {Yaru Cao and
+                  Zhuang Chen and
+                  Guanqun Bi and
+                  Yulin Feng and
+                  Min Chen and
+                  Fucheng Wan and
+                  Minlie Huang and
+                  Hongzhi Yu},
+  editor       = {Derek F. Wong and
+                  Zhongyu Wei and
+                  Muyun Yang},
+  title        = {Enhancing Emotional Support Conversation with Cognitive Chain-of-Thought
+                  Reasoning},
+  booktitle    = {Natural Language Processing and Chinese Computing - 13th National
+                  {CCF} Conference, {NLPCC} 2024, Hangzhou, China, November 1-3, 2024,
+                  Proceedings, Part {I}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {15359},
+  pages        = {175--187},
+  publisher    = {Springer},
+  year         = {2024},
+  url          = {https://doi.org/10.1007/978-981-97-9431-7\_14},
+  doi          = {10.1007/978-981-97-9431-7\_14},
+  timestamp    = {Mon, 18 Nov 2024 15:16:29 +0100},
+  biburl       = {https://dblp.org/rec/conf/nlpcc/CaoCBFCWHY24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
